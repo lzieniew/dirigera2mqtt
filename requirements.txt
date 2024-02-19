@@ -1,2 +1,3 @@
 dirigera
 python-dotenv
+paho-mqtt
